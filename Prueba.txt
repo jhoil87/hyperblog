@@ -1,4 +1,4 @@
 Esta es una primera prueba para aprender a utilizar los controles
-de cambio en git 
+de cambio en git, Ahora estamos aprendiendo a usar el git commit 
 
 a darle!
