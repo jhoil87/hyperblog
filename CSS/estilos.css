@@ -1,10 +1,17 @@
 body 
 {
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
-    color:blue;
+    color:#333;
 }
 
 h1{
     color:chartreuse
+}
+
+#container {
+    width:70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid;
 }
