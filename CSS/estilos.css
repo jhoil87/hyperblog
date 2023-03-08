@@ -29,3 +29,10 @@ h1{
     font-weight: normal;
     font-size: .8 em;
 }
+
+#footer{
+    background-color: chocolate;
+    color:white;
+    text-align: center;
+    padding: .5em;
+}
