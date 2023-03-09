@@ -32,3 +32,9 @@ h1{
     font-size: .8 em;
 }
 
+#footer{
+    background-color: chocolate;
+    color:white;
+    text-align: center;
+    padding: .5em;
+}
