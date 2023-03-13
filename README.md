@@ -10,3 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado de forma muy alocada por el team   
+* Creado de forma muy alocada por el team
+* Incluye ejemplos en windows, linux y mac
+* Trabajando de forma muy divertida y autodidacta   
